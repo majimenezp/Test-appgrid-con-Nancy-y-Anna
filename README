@@ -1,0 +1,4 @@
+This is a test application to demostrate how can use the Nancy microframework with Anna as web server.
+This app is based in the initial test of grumpydev of Nancy on top of Anna (https://github.com/grumpydev/NancyAnna, https://github.com/jfromaniello/Anna )
+
+Additional to this, i testing the appbase interface for the Appgrid project.
